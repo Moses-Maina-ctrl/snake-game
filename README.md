@@ -1,5 +1,5 @@
 # snake-game
-[Try it out]()
-Simple snake game made with Javascript
+
+Simple snake game made with Javascript. [Try it out]()
 
 
