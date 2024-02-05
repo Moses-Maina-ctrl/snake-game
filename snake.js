@@ -93,6 +93,7 @@ function changeWidth() {
     board.height = 256;
   } else {
     board.width = 800;
+    board.height = 800;
   }
 }
 function maintainLength(trail, tail) {
