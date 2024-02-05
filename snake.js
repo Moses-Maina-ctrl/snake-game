@@ -89,8 +89,8 @@ function pressKey(event) {
 
 function changeWidth() {
   if (window.innerWidth < 500) {
-    board.width = 256;
-    board.height = 256;
+    board.width = 360;
+    board.height = 360;
   } else {
     board.width = 640;
     board.height = 640;
