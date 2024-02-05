@@ -23,3 +23,9 @@ body{
   justify-content:space-between;
   gap: 10em;
 }
+#logo{
+  display:block;
+  position: absolute;
+  top: 250px;
+}
+
